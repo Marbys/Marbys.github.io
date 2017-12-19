@@ -1,4 +1,4 @@
 Strona główna
 ===============
 
-Witaj na mojej stronie!
+Witaj na mojej stronie glownej!
