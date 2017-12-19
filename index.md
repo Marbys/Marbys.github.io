@@ -1,2 +1,4 @@
 Strona główna
 ===============
+
+Witaj!
